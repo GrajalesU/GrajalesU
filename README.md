@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Manuel Grajales</h1>
 <h3 align="center">A junior frontend developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Unit testing**
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **react**
 
